@@ -1,0 +1,32 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57859:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Odds'd/out/production/Odds'd Main
+Senario 1
+Expected Result: 0.5000
+Count of True: 50040
+Count of False: 49960
+Condition Reached 0.5004
+
+Senario 2
+Expected Result: 0.7000
+Count of True: 69918
+Count of False: 30082
+Condition Reached 0.69918
+
+Senario 3
+Expected Result: 0.2500
+Count of True: 25045
+Count of False: 74955
+Condition Reached 0.25045
+
+Senario 4
+Expected Result: 0.1111
+Count of True: 11239
+Count of False: 88761
+Condition Reached 0.11239
+
+Senario 5
+Expected Result: 0.2778
+Count of True: 27643
+Count of False: 72357
+Condition Reached 0.27643
+
+Process finished with exit code 0
